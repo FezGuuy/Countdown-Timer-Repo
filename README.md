@@ -9,4 +9,4 @@ when inputing a time and correctly remoes minutes and adds seconds when at the e
 <strong>(ex. 01:00 -> 00:59)</strong>.<br>Aswell the program properly stops once the time runs out and it displays the message 
 "Your Timer is done".</p>
 <h3>Example</h3>
-<p>My version can be run and interacted on the p5.js website with through the following link.<br>https://editor.p5js.org/FezGuuy/sketches/Fq5dgmRAY</br><br>Feel free to copy and paste it and add more to it directly from there, and have fun with it.</br>
+<p>My version can be run and interacted on the p5.js website with through the following link.<br>https://editor.p5js.org/FezGuuy/sketches/Fq5dgmRAY</br><br>Feel free to copy and paste it and add more to it directly from there, and have fun with it, but <strong>please don't edit the version the link brings you to</strong> as I believe it will change it for everybody not just you, and I would have to edit it. Thank you in advance.</br>
