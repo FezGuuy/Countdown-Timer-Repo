@@ -8,3 +8,5 @@ as a timer in minutes and seconds as it counts down immideatly in one second int
 when inputing a time and correctly remoes minutes and adds seconds when at the end of a minute interval 
 <strong>(ex. 01:00 -> 00:59)</strong>.<br>Aswell the program properly stops once the time runs out and it displays the message 
 "Your Timer is done".</p>
+<h3>Example</h3>
+<p>My version can be run and interacted on the p5.js website with through the following link.<br>https://editor.p5js.org/FezGuuy/sketches/Fq5dgmRAY</br><br>Feel free to copy and paste it and add more to it directly from there, and have fun with it.</br>
